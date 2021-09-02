@@ -5,7 +5,7 @@ investigated. This was done by data processing and data visualization using Pyth
 
 ## Overview of exercises guiding your investigation:
 
-Exercise 1 Generate a map of the main investigation area.\n
+Exercise 1 Generate a map of the main investigation area.  
 Exercise 2 Generate SMI maps of the counties of interest for the selected dates.\n
 Exercise 3 Generate precipitation video in QGIS.\n
 Exercise 4 Calculate cumulative precipitation time series.\n
