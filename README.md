@@ -3,16 +3,16 @@
 In this project we analyzed environmental factors like SMI, precipitation and vegetation development were analysed for the region of Sauerland and correlation between the factors were
 investigated. This was done by data processing and data visualization using Python and QGIS.
 
-## Overview of exercises guiding your investigation:
+## Overview of exercises guiding the investigation:
 
 Exercise 1 Generate a map of the main investigation area.  
-Exercise 2 Generate SMI maps of the counties of interest for the selected dates.\n
-Exercise 3 Generate precipitation video in QGIS.\n
-Exercise 4 Calculate cumulative precipitation time series.\n
-Exercise 5 Analyse cumulative precipitation vs. altitude (from DTM).\n
-Exercise 6 Discuss different SMI dynamics in Olpe and Hochsauerlandkreis.\n
-Exercise 7 NDVI\n
-Exercise 8 Dimension a roof drainage for two new industrial buildings.\n
+Exercise 2 Generate SMI maps of the counties of interest for the selected dates.  
+Exercise 3 Generate precipitation video in QGIS.  
+Exercise 4 Calculate cumulative precipitation time series.  
+Exercise 5 Analyse cumulative precipitation vs. altitude (from DTM).  
+Exercise 6 Discuss different SMI dynamics in Olpe and Hochsauerlandkreis.  
+Exercise 7 NDVI  
+Exercise 8 Dimension a roof drainage for two new industrial buildings.  
 
 ## Introduction
 
