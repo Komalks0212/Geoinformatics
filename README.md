@@ -10,7 +10,7 @@ investigated. This was done by data processing and data visualization using Pyth
 [Exercise 3](https://github.com/Komalks0212/Geoinformatics/tree/main/Ex_3)  Generate precipitation video in QGIS.  
 [Exercise 4](https://github.com/Komalks0212/Geoinformatics/tree/main/Ex_4)  Calculate cumulative precipitation time series.  
 [Exercise 5](https://github.com/Komalks0212/Geoinformatics/tree/main/Ex_5)  Analyse cumulative precipitation vs. altitude (from DTM).  
-[Exercise 6](https://github.com/Komalks0212/Geoinformatics/tree/main/Ex_6)  Discuss different SMI dynamics in Olpe and Hochsauerlandkreis.  
+Exercise 6 Discuss different SMI dynamics in Olpe and Hochsauerlandkreis.  
 [Exercise 7](https://github.com/Komalks0212/Geoinformatics/tree/main/Ex_7)  NDVI  
 [Exercise 8](https://github.com/Komalks0212/Geoinformatics/tree/main/Ex_8)  Dimension a roof drainage for two new industrial buildings.  
 
